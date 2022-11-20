@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">push-one</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">X_bvp6jHMGjKJlvGiY138ZWbPDUdIY6AUePdu</string>
+</resources>
